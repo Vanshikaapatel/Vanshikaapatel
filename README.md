@@ -1,3 +1,4 @@
+![logo]()
 <h1 align="center">Hi 👋, I'm VANSHIKA PATEL</h1>
 <h3 align="center">A passionate WEB DEVELOPER from India</h3>
 
