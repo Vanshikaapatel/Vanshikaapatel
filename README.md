@@ -79,6 +79,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshikaapatel&theme=tokyonight" height="180">
 </p>
 
+
+![Vanshika's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanshikaapatel&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshikaapatel&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vanshikaapatel&theme=tokyonight)
+
+
 ---
 
 # 🚀 **My Projects**
