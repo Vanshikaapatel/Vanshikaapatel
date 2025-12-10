@@ -63,7 +63,7 @@
 
 ### ☁️ **Cloud & DevOps**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=aws,gcp,git,github,docker" height="50">
+<img src="https://skillicons.dev/icons?i=aws,git,github,docker" height="50">
 </p>
 
 ---
@@ -95,8 +95,9 @@ Here are some of the projects I’ve built:
 ---
 
 # 🎯 **Current Goals**
-- Master **Cloud Computing (AWS/GCP)**
-- Deep dive into **Full Stack (MERN)**
+- Become an **AI-ML engineer  **
+- Deep dive into **Software aninerring **
+- Really interested For ** Data Analysis **
 - Build more **real-world, scalable web applications**
 - Contribute actively to **Open Source**
 
