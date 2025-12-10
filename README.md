@@ -43,22 +43,22 @@
 
 ### 💻 **Languages**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,c" height="50">
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python," height="50">
 </p>
 
 ### 🎨 **Frontend Development**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,figma,materialui" height="50">
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,figma" height="50">
 </p>
 
 ### 🛠️ **Backend & Frameworks**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" height="50">
+<img src="https://skillicons.dev/icons?i=nodejs,django,flask" height="50">
 </p>
 
 ### 🗄️ **Databases**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis" height="50">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres," height="50">
 </p>
 
 ### ☁️ **Cloud & DevOps**
