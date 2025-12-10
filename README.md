@@ -70,21 +70,12 @@
 
 # 📊 **GitHub Stats**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanshikaapatel&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshikaapatel&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+Side-by-Side (Stats + Top Languages) Layout
+<p align="center"> <div style="display: flex; flex-direction: row; justify-content: center; gap: 20px;"> <img src="https://github-readme-stats.vercel.app/api?username=Vanshikaapatel&show_icons=true&theme=tokyonight" alt="GitHub Stats — Vanshika Patel" style="width: 45%;" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshikaapatel&layout=compact&theme=tokyonight" alt="Top Languages — Vanshika Patel" style="width: 40%;" /> </div> </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshikaapatel&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
-
-![Vanshika's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanshikaapatel&show_icons=true&theme=tokyonight)
 
 ---
 
