@@ -1,9 +1,12 @@
 ![banner](https://github.com/Vanshikaapatel/Vanshikaapatel/blob/main/Screenshot%202025-06-30%20234625.png)
 
 <h1 align="center">Hi 👋, I'm <span style="color:#FF6B00;">Vanshika Patel</span></h1>
-<h3 align="center">Passionate & Dedicated Web Developer | MERN Stack | Cloud Enthusiast | Building Scalable Digital Experiences</h3>
+<h3 align="center">Passionate & Dedicated Web Developer |  Interested in Data Analyst | | Building Scalable Digital Experiences</h3>
 
 ---
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&center=true&vCenter=true&color=FF2D95&width=600&lines=Hi+👋+I'm+Vanshika+Patel;💻+Web+Developer;📊+Interested+in+Data+Analysis;🚀+Tech+Enthusiast;🔥+Languages+I+know;Python+|+Java;" />
+</h1>
 
 <img align="right" alt="coding" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -30,6 +33,30 @@
 
 ---
 
+<h2 align="center">✨ My Skills ✨</h2>
+
+<marquee behavior="scroll" direction="left" scrollamount="7">
+  🌐 HTML &nbsp;&nbsp; | &nbsp;&nbsp;
+  🎨 CSS &nbsp;&nbsp; | &nbsp;&nbsp;
+  ⚡ JavaScript &nbsp;&nbsp; | &nbsp;&nbsp;
+  ⚛️ React &nbsp;&nbsp; | &nbsp;&nbsp;
+  🐍 Python &nbsp;&nbsp; | &nbsp;&nbsp;
+  🗄️ MySQL &nbsp;&nbsp; | &nbsp;&nbsp;
+  🍃 MongoDB &nbsp;&nbsp; | &nbsp;&nbsp;
+  📊 Data Analysis
+</marquee>
+
+---
+
+<h2 align="center">🚀 Technologies I Work With</h2>
+
+<p align="center">
+  <img src="https://readme-marquee.onrender.com/?text=HTML%20%7C%20CSS%20%7C%20JavaScript%20%7C%20React%20%7C%20Node.js%20%7C%20Python%20%7C%20MySQL%20%7C%20MongoDB%20%7C%20Data%20Analysis&width=900&height=50&color=FF6B00&background=000000" />
+</p>
+
+
+---
+
 ## 🌐 Connect With Me  
 <p align="left">
 <a href="https://twitter.com/vanshikaapatel_" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="40"/></a>
@@ -43,40 +70,40 @@
 
 ### 💻 **Languages**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python," height="50">
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python," height="40">
 </p>
 
 ### 🎨 **Frontend Development**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,figma" height="50">
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,figma" height="40">
 </p>
 
 ### 🛠️ **Backend & Frameworks**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,django,flask" height="50">
+<img src="https://skillicons.dev/icons?i=nodejs,django,flask" height="40">
 </p>
 
-### 🗄️ **Databases**
+🗄️ **Databases**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres," height="50">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres," height="40">
 </p>
 
-### ☁️ **Cloud & DevOps**
+☁️ **Cloud & DevOps**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=aws,git,github,docker" height="50">
+<img src="https://skillicons.dev/icons?i=aws,git,github,docker" height="40">
 </p>
 
 ---
 
 # 📊 **GitHub Stats**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanshikaapatel&show_icons=true&theme=tokyonight" alt="Vanshika's GitHub Stats" />
-</p>
+<h2 align="left">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshikaapatel&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vanshikaapatel&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshikaapatel&layout=compact&theme=tokyonight" height="180" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshikaapatel&theme=tokyonight" alt="GitHub Streak" />
@@ -97,10 +124,10 @@ Here are some of the projects I’ve built:
 
 ---
 
-# 🎯 **Current Goals**
-- Become an **AI-ML engineer  **
-- Deep dive into **Software aninerring **
-- Really interested For ** Data Analysis **
+# 🎯 *Current Goals*
+- Become an **AI-ML engineer**
+- Deep dive into **Software aninerring**
+- Really interested For **Data Analysis**
 - Build more **real-world, scalable web applications**
 - Contribute actively to **Open Source**
 
