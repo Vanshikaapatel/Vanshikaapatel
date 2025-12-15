@@ -1,117 +1,97 @@
 
-![banner](https://github.com/Vanshikaapatel/Vanshikaapatel/blob/main/Screenshot%202025-06-30%20234625.png)
-
----
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&center=true&vCenter=true&color=FF2D95&width=600&lines=Hi+👋+I'm+Vanshika+Patel;💻+Web+Developer;📊+Interested+in+Data+Analysis;🚀+Tech+Enthusiast;🔥+Languages+I+know;Python+|+Java;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&center=true&vCenter=true&color=FF2D95&width=600&lines=Hi+👋+I'm+Vanshika+Patel;💻+Web+Developer;🚀+AI-ML+Learner;🔥+Languages+I+know;Python+|+Java+|+AI-ML🚀;" />
 </h1>
 
 ---
-
-<h1 align="center">Hi 👋, I'm <span style="color:#FF6B00;">Vanshika Patel</span></h1>
-<h3 align="center">Passionate & Dedicated Web Developer |  Interested in Data Analyst | | Building Scalable Digital Experiences</h3>
-
----
-
-<img align="right" alt="coding" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-### 🚀 About Me  
-🔹 I love transforming ideas into fully functional, user-friendly web applications.  
-🔹 Constantly learning to stay ahead in the world of modern development.  
-🔹 Passionate about **Frontend, Backend, Cloud, and AI Integrations**.  
-🔹 Open to **collaborations**, **freelancing**, and **innovative project ideas**.
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+  <b>Welcome to my GitHub space !</b>
+</p>
+<h3 align="center">Passionate & Dedicated Web Developer |  Interested in AI&ML | | Building Projects gaining Hands-On-Experiences</h3>
 
 ---
 
-### 💬 Ask me about  
-- **Web Development (Frontend / Backend)**
-- **Full-Stack Projects**
-- **Cloud Technologies**
-- **JavaScript, React, Express, MongoDB**
-- **Python & Java**
-- **Projects I've built — and the ones I dream of building!**
+## 👨‍💻 About Me
+- 🎓 **B.Tech CSE (AI Specialization)**  
+- 💼 **Role:**   Web & Developer |Skilled AI & ML Engineer
+- 💡 Passionate about Artificial Intelligence, Machine Learning, and Software Development. 
+- 🧠 Strong interest in solving real-world problems using AI & Data-driven solutions.
+- 💻 Skilled in Python, Web Development & AI-based projects
 
 ---
 
-### 📫 Reach Me  
-📩 **Email:** *patelvanshikaa@gmail.com*  
+## 🛠️ Tech Stack & Skills
+
+### 💻 Programming & Web
+- **Python | Java | JavaScript**
+- **HTML | CSS | React**
+
+### 🤖 AI / Machine Learning
+- **Data Preprocessing & Feature Engineering**
+- **Model Training & Evaluation**
+- **Supervised Learning (Regression, Classification)**
+- **Computer Vision (OpenCV, Face & Object Detection)**
+- **Numpy | Pandas | Matplotlib | Scikit-learn**
+
+### 🗄️ Databases & Tools
+- **MySQL | CSV-based Systems | MongoDB (Basics)**
+- **Git & GitHub**
+- **VS Code | Streamlit**
 
 ---
-
-<h2 align="center">✨ My Skills I Work with ✨</h2>
-
-<marquee behavior="scroll" direction="left" scrollamount="7">
-  🌐 HTML &nbsp;&nbsp; | &nbsp;&nbsp;
-  🎨 CSS &nbsp;&nbsp; | &nbsp;&nbsp;
-  ⚡ JavaScript &nbsp;&nbsp; | &nbsp;&nbsp;
-  ⚛️ React &nbsp;&nbsp; | &nbsp;&nbsp;
-  🐍 Python &nbsp;&nbsp; | &nbsp;&nbsp;
-  🗄️ MySQL &nbsp;&nbsp; | &nbsp;&nbsp;
-  🍃 MongoDB &nbsp;&nbsp; | &nbsp;&nbsp;
-  📊 Data Analysis
-</marquee>
-
----
-
-## 🌐 Connect With Me  
-<p align="left">
-<a href="https://twitter.com/vanshikaapatel_" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="40"/></a>
-<a href="https://linkedin.com/in/vanshika patel" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
-<a href="https://instagram.com/vanshikaapatel_" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
+##  ⚡Technical Stack badges 
+  <p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
-## 🛠️ Technical Skills  
 
-<div align="center">
-
-| Languages | Frontend | Backend | Databases | Cloud |
-|----------|----------|---------|-----------|--------|
-| <img src="https://skillicons.dev/icons?i=html,css,js,java,python" height="50"> | <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,figma" height="50"> | <img src="https://skillicons.dev/icons?i=nodejs,django" height="50"> | <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" height="50"> | <img src="https://skillicons.dev/icons?i=git,github,docker" height="50"> |
-
-</div>
-
-
----
-
-# 📊 **GitHub Stats**
-
-<h2 align="left">📊 GitHub Stats</h2>
+## 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vanshikaapatel&theme=tokyonight"/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanshikaapatel&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshikaapatel&layout=compact&theme=tokyonight" height="180" />
+   <img src="https://github-readme-stats.vercel.app/api?username=Vanshikaapatel&show_icons=true&theme=tokyonight"/>
 </p>
 
+---
 
+## 🏆 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshikaapatel&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshikaapatel&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-# 🚀 **My Projects**
-### 🔥 Featured Works  
-Here are some of the projects I’ve built:
+## 🌐 Connect With Me 
+<p align="center">
+  <a href="https://github.com/Vanshikaapatel">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vanshika-patel-572aa92b7/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+   <a href="mailto:patelvanshikaa@gmail.com">
+     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+   </a>
+     
+---
 
-- **🔸 Full-Stack Web Applications**  
-- **🔸 AI & ML Mini Projects**  
-- **🔸 Python Automation Tools**  
-- **🔸 Database-Driven Applications**  
-
-(You can manually add your project links here.)
+## 💡 Developer Quotes
+- “Code is like humor. When you have to explain it, it’s bad.” — Cory House  
+- “Coding is not about typing, it’s about thinking.”
+- “Mistakes are proof that you are trying.”
 
 ---
 
-# 🎯 *Current Goals*
-- Become an **AI-ML engineer**
-- Deep dive into **Software aninerring**
-- Really interested For **Data Analysis**
-- Build more **real-world, scalable web applications**
-- Contribute actively to **Open Source**
-
----
-
-<h3 align="center">⭐ Thanks for visiting! Don't forget to star 🌟 my repositories!</h3>
+<h3 align="center">⭐ Thanks for visiting! consider giving me star as reward for 🌟 my repositories!</h3>
 
