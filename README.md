@@ -71,7 +71,12 @@
 </p>
 
 ---
+## 🐍 GitHub Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vanshikaapatel/Vanshikaapatel/output/github-contribution-grid-snake.svg"/>
+</p>
 
+---
 ## 🌐 Connect With Me 
 <p align="center">
   <a href="https://github.com/Vanshikaapatel">
