@@ -54,7 +54,6 @@
 </p>
 
 ---
-
 ## 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vanshikaapatel&theme=tokyonight"/>
@@ -63,7 +62,6 @@
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=Vanshikaapatel&show_icons=true&theme=tokyonight"/>
 </p>
-
 ---
 
 ## 🏆 Most Used Languages
@@ -76,7 +74,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Vanshikaapatel/Vanshikaapatel/output/github-contribution-grid-snake.svg"/>
 </p>
-
 ---
 ## 🌐 Connect With Me 
 <p align="center">
@@ -88,8 +85,7 @@
   </a>
    <a href="mailto:patelvanshikaa@gmail.com">
      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-   </a>
-     
+   </a>    
 ---
 
 ## 💡 Developer Quotes
