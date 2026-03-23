@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
   <b>Welcome to my GitHub space !</b>
 </p>
-<h3 align="center">Passionate & Dedicated Web Developer |  Interested in AI&ML | | Building Projects gaining Hands-On-Experiences</h3>
+<h3 align="center">Passionate & Dedicated Web Developer |  AI&ML Engineer | | Building Projects gaining Hands-On-Experiences</h3>
 
 ---
 
@@ -16,7 +16,7 @@
 - 🎓 **B.Tech CSE (AI Specialization)**  
 - 💼 **Role:**   Web & Developer |Skilled AI & ML Engineer
 - 💡 Passionate about Artificial Intelligence, Machine Learning, and Software Development. 
-- 🧠 Strong interest in solving real-world problems using AI & Data-driven solutions.
+- 🧠 Strongly into solving real-world problems using AI & Data-driven solutions.
 - 💻 Skilled in Python, Web Development & AI-based projects
 
 ---
