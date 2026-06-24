@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&center=true&vCenter=true&color=FF2D95&width=600&lines=Hi+👋+I'm+Vanshika+Patel;💻+Web+Developer;🚀+AI-ML+Learner;🔥+Languages+I+know;Python+|+Java+|+AI-ML🚀;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&center=true&vCenter=true&color=FF2D95&width=600&lines=Hi+👋+I'm+Vanshika+Patel;💻+Web+Developer;🚀+Data Analyst;🔥+Languages+I+know;Python+|+Java+|+AI-ML🚀;" />
 </h1>
 
 ---
@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
   <b>Welcome to my GitHub space !</b>
 </p>
-<h3 align="center">Passionate & Dedicated Web Developer |  AI&ML Engineer | | Building Projects gaining Hands-On-Experiences</h3>
+<h3 align="center"> Web Developer | Data Analyst | AI&ML | Building Projects gaining Hands-On-Experiences</h3>
 
 ---
 
@@ -35,7 +35,7 @@
 - **Numpy | Pandas | Matplotlib | Scikit-learn**
 
 ### 🗄️ Databases & Tools
-- **MySQL | CSV-based Systems | MongoDB (Basics)**
+- **MySQL | Excel | Power BI | CSV-based Systems | MongoDB (Basics)**
 - **Git & GitHub**
 - **VS Code | Streamlit**
 
@@ -48,7 +48,9 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MY SQL-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power BI-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
